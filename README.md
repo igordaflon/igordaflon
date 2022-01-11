@@ -1,10 +1,5 @@
 ## Olá! Eu sou o Igor Daflon
- <div>
-  <a href="https://github.com/igordaflon">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=igordaflon&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordaflon&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt="CSS" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
@@ -22,6 +17,13 @@
   
   <img align="right" width="200" alt="Rafa-yoda" src="https://media1.giphy.com/media/zwDNti5vWFujS/giphy.gif?cid=ecf05e47l0lycmete9z7rakykh4g3m9d6n6uhjb2zri6gmil&rid=giphy.gif&ct=g">
 </div>
+
+ <div>
+  <a href="https://github.com/igordaflon">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=igordaflon&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordaflon&layout=compact&langs_count=7&theme=onedark"/>
+</div> 
+
   
   ##
   
